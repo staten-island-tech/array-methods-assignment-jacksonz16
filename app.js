@@ -6,7 +6,7 @@ const human = [{
 }]
  [{
     name:"Momes Jariarty",
-    job:"English professor",
+    job:"Emoiji translation professor",
     nationality:"New york pizza"
 }]
 [{
