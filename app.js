@@ -1,11 +1,16 @@
 console.log("connected")
 const human = [{
     name:"herlock sholmes",
-    job:"detective",
+    job:"mediocre detective",
     nationality:"Yorkshire tea"
 }]
-const human = [{
+ [{
     name:"Momes Jariarty",
     job:"English professor",
-    nationality:"Yorkshire tea"
+    nationality:"New york pizza"
+}]
+[{
+    name:"Jaun Jatson",
+    job:"mexcian professor",
+    nationality:"New york pizza"
 }]
