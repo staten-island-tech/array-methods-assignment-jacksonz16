@@ -30,6 +30,9 @@ const human = [{
 }]
 
 human.forEach((human) => console.log(human.name));
-human.forEach((human) => console.log(human.personality));
+human.forEach((human) => {
+    human.personality.forEach((personality) => {
+    console.log(personality)
+})});
 const status_alive = human.filter((human) => human.realcharacter === true);
     console.log(status_alive);
